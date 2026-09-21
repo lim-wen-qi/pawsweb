@@ -3,6 +3,7 @@
 A full-stack pet adoption web application developed using React, Node.js, Express.js, and MongoDB, where users can browse pets, search and filter listings, and interact with adoption-related content.
 
 ## About
+<img width="358" height="214" alt="image" src="https://github.com/user-attachments/assets/91ef9c46-ea27-4917-b18e-f95b9897b089" />
 
 PawsWeb is a pet adoption platform designed to make it easier for users to discover pets available for adoption and access relevant information.
 
