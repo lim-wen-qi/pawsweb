@@ -33,7 +33,8 @@ Different interfaces are displayed based on the user's role, allowing adopters, 
 
 Pet listings can be searched and filtered to help users find suitable pets, while the interface was designed to work across different screen sizes.
 
-<img width="1433" height="1552" alt="pawsweb1" src="https://github.com/user-attachments/assets/25c421dd-dad0-4b47-854d-1b277056981d" />
+#### Homepage
+<img width="1433" height="1552" alt="pawsweb1" src="https://github.com/user-attachments/assets/e36435a4-6628-4c95-a9d1-f5b6491b9f63" />
 
 
 ### Backend & REST API
@@ -54,7 +55,7 @@ Session-based authentication is used to maintain logged-in users, while role-bas
 
 ### Pet Discovery & Adoption
 
-Users can browse available pets and use search and filtering functionality to narrow down the listings.
+Users can browse available pets and use search and filtering functionality to narrow down listings by criteria such as pet type, breed, size, and gender.
 <img width="1433" height="1365" alt="pawsweb3" src="https://github.com/user-attachments/assets/4c0168a0-946d-4d1b-b7b0-2118ce1f4631" />
 
 
@@ -72,6 +73,14 @@ The platform includes educational resources and frequently asked questions to pr
 
 Administrative functionality allows this content to be managed through the application.
 <img width="1433" height="1501" alt="pawsweb7" src="https://github.com/user-attachments/assets/09f20521-c7ff-40c5-87f0-cc215138e1b1" />
+
+## What I Worked On
+
+I worked across both the frontend and backend of PawsWeb, contributing to user authentication, pet listings, filtering, role-based interfaces, educational content, FAQs, and database integration.
+
+My frontend work included setting up the React application, developing user interfaces and reusable components, implementing filtering functionality, and integrating the frontend with backend services.
+
+On the backend, I worked with Node.js, Express.js, and MongoDB on user authentication, pet listing data, educational content, FAQs, and database functionality.
 
 ## Technologies
 
