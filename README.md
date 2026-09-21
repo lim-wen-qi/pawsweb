@@ -55,16 +55,22 @@ Session-based authentication is used to maintain logged-in users, while role-bas
 ### Pet Discovery & Adoption
 
 Users can browse available pets and use search and filtering functionality to narrow down the listings.
+<img width="1433" height="2094" alt="pawsweb2" src="https://github.com/user-attachments/assets/200fdcc5-ed3c-41e2-9981-cbccdabcdd43" />
 
 Adopters can also like pets, view their saved pets, and submit adoption enquiries.
+<img width="1433" height="773" alt="pawsweb5" src="https://github.com/user-attachments/assets/4959fb22-6681-488e-8314-11ae68ce2a7d" />
+
 
 Staff and administrators can add and manage pet listings and update the adoption status of pets.
+<img width="1433" height="773" alt="pawsweb4" src="https://github.com/user-attachments/assets/b30ea576-836a-4960-a18c-6beda39be132" />
 
 ### Content Management
 
 The platform includes educational resources and frequently asked questions to provide users with additional information related to pet adoption.
+<img width="1433" height="1501" alt="pawsweb6" src="https://github.com/user-attachments/assets/a54c31cb-4025-48f6-b06a-af9d8d501388" />
 
 Administrative functionality allows this content to be managed through the application.
+<img width="1433" height="1501" alt="pawsweb7" src="https://github.com/user-attachments/assets/09f20521-c7ff-40c5-87f0-cc215138e1b1" />
 
 ## Technologies
 
