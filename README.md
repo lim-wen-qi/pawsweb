@@ -55,7 +55,8 @@ Session-based authentication is used to maintain logged-in users, while role-bas
 ### Pet Discovery & Adoption
 
 Users can browse available pets and use search and filtering functionality to narrow down the listings.
-<img width="1433" height="2094" alt="pawsweb2" src="https://github.com/user-attachments/assets/200fdcc5-ed3c-41e2-9981-cbccdabcdd43" />
+<img width="1433" height="1365" alt="pawsweb3" src="https://github.com/user-attachments/assets/4c0168a0-946d-4d1b-b7b0-2118ce1f4631" />
+
 
 Adopters can also like pets, view their saved pets, and submit adoption enquiries.
 <img width="1433" height="773" alt="pawsweb5" src="https://github.com/user-attachments/assets/4959fb22-6681-488e-8314-11ae68ce2a7d" />
