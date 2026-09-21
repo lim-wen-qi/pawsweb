@@ -33,6 +33,9 @@ Different interfaces are displayed based on the user's role, allowing adopters, 
 
 Pet listings can be searched and filtered to help users find suitable pets, while the interface was designed to work across different screen sizes.
 
+<img width="1433" height="1552" alt="pawsweb1" src="https://github.com/user-attachments/assets/25c421dd-dad0-4b47-854d-1b277056981d" />
+
+
 ### Backend & REST API
 
 The backend was developed using Node.js and Express.js, with REST API endpoints used to handle communication between the frontend and MongoDB.
@@ -46,6 +49,8 @@ MongoDB and Mongoose are used to store and manage the application's data.
 The application includes account registration and email OTP verification.
 
 Session-based authentication is used to maintain logged-in users, while role-based access allows different functionality to be provided to adopters, staff, and administrators.
+
+<img width="1433" height="2094" alt="pawsweb2" src="https://github.com/user-attachments/assets/58d18065-de34-4001-a243-af21e91f7d99" />
 
 ### Pet Discovery & Adoption
 
