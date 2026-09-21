@@ -34,7 +34,7 @@ Different interfaces are displayed based on the user's role, allowing adopters, 
 Pet listings can be searched and filtered to help users find suitable pets, while the interface was designed to work across different screen sizes.
 
 #### Homepage
-<img width="1433" height="1552" alt="pawsweb1" src="https://github.com/user-attachments/assets/e36435a4-6628-4c95-a9d1-f5b6491b9f63" />
+<img width="850" alt="pawsweb1" src="https://github.com/user-attachments/assets/e36435a4-6628-4c95-a9d1-f5b6491b9f63" />
 
 
 ### Backend & REST API
@@ -51,28 +51,28 @@ The application includes account registration and email OTP verification.
 
 Session-based authentication is used to maintain logged-in users, while role-based access allows different functionality to be provided to adopters, staff, and administrators.
 
-<img width="1433" height="2094" alt="pawsweb2" src="https://github.com/user-attachments/assets/58d18065-de34-4001-a243-af21e91f7d99" />
+<img width="850" alt="pawsweb2" src="https://github.com/user-attachments/assets/58d18065-de34-4001-a243-af21e91f7d99" />
 
 ### Pet Discovery & Adoption
 
 Users can browse available pets and use search and filtering functionality to narrow down listings by criteria such as pet type, breed, size, and gender.
-<img width="1433" height="1365" alt="pawsweb3" src="https://github.com/user-attachments/assets/4c0168a0-946d-4d1b-b7b0-2118ce1f4631" />
+<img width="850" alt="pawsweb3" src="https://github.com/user-attachments/assets/4c0168a0-946d-4d1b-b7b0-2118ce1f4631" />
 
 
 Adopters can also like pets, view their saved pets, and submit adoption enquiries.
-<img width="1433" height="773" alt="pawsweb5" src="https://github.com/user-attachments/assets/4959fb22-6681-488e-8314-11ae68ce2a7d" />
+<img width="850" alt="pawsweb5" src="https://github.com/user-attachments/assets/4959fb22-6681-488e-8314-11ae68ce2a7d" />
 
 
 Staff and administrators can add and manage pet listings and update the adoption status of pets.
-<img width="1433" height="773" alt="pawsweb4" src="https://github.com/user-attachments/assets/b30ea576-836a-4960-a18c-6beda39be132" />
+<img width="850" alt="pawsweb4" src="https://github.com/user-attachments/assets/b30ea576-836a-4960-a18c-6beda39be132" />
 
 ### Content Management
 
 The platform includes educational resources and frequently asked questions to provide users with additional information related to pet adoption.
-<img width="1433" height="1501" alt="pawsweb6" src="https://github.com/user-attachments/assets/a54c31cb-4025-48f6-b06a-af9d8d501388" />
+<img width="850" alt="pawsweb6" src="https://github.com/user-attachments/assets/a54c31cb-4025-48f6-b06a-af9d8d501388" />
 
 Administrative functionality allows this content to be managed through the application.
-<img width="1433" height="1501" alt="pawsweb7" src="https://github.com/user-attachments/assets/09f20521-c7ff-40c5-87f0-cc215138e1b1" />
+<img width="850" alt="pawsweb7" src="https://github.com/user-attachments/assets/09f20521-c7ff-40c5-87f0-cc215138e1b1" />
 
 ## What I Worked On
 
